@@ -19,7 +19,7 @@ export default function Home({title = "React Avançado"}: Props) {
       </main>
 
       <footer className="container">
-       
+
       </footer>
     </div>
   )
