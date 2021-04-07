@@ -1,5 +1,6 @@
 
-Este é um boilerplate [Next.js](https://nextjs.org/) para ser usado em qualquer projeto NextJS.
+Esse é um boilerplate [Next.js](https://nextjs.org/) para ser usado em qualquer projeto Next.js
+
 
 ## Tudo que foi usado nesse projeto
 
@@ -13,7 +14,8 @@ Este é um boilerplate [Next.js](https://nextjs.org/) para ser usado em qualquer
 - [Prettier](https://prettier.io/)
 - [Husky](https://github.com/typicode/husky)
 
-## Iniciando
+
+## Para iniciar o projeto
 
 Primeiro, execute o servidor de desenvolvimento::
 
@@ -27,6 +29,7 @@ Abra [http://localhost:3000](http://localhost:3000) com seu navegador para ver o
 
 Você pode começar a editar a página modificando `pages/index.js`. A página é atualizada automaticamente conforme você edita o arquivo.
 
+
 ## Comandos
 
 - `dev`: executa seu aplicativo em `localhost:3000`
@@ -38,6 +41,7 @@ Você pode começar a editar a página modificando `pages/index.js`. A página �
 - `storybook`: executa o storybook em `localhost:6006`
 - `build-storybook`: cria o build do storybook
 
+
 ## Saber mais
 
 Para saber mais sobre Next.js, dê uma olhada nos seguintes recursos:
@@ -45,10 +49,7 @@ Para saber mais sobre Next.js, dê uma olhada nos seguintes recursos:
 - [Documentação Next.js](https://nextjs.org/docs) - aprenda sobre os recursos e API do Next.js.
 - [Aprenda Next.js](https://nextjs.org/learn) - um tutorial Next.js interativo.
 
-Você pode verificar [the Next.js GitHub repository](https://github.com/vercel/next.js/).
 
 ## Deploy na Vercel
 
 A maneira mais fácil de implantar seu aplicativo Next.js é usar a [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) dos criadores do Next.js.
-
-Confira nossa [Next.js deployment documentation](https://nextjs.org/docs/deployment) para obter mais detalhes.
